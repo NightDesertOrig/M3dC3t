@@ -1,2 +1,2 @@
 # M3dC3t
-я хз зачем я это делаю
+fun decompile part 5
