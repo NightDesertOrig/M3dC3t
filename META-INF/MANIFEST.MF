@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.m3dc3t.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: m3dc3t_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: dev.madcat.m3dc3t.mixin.M3dC3tMixinLoader
+
